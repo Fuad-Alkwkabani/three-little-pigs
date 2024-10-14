@@ -9,6 +9,10 @@ body{
     justify-content: center;
     align-items: center;
     min-height: 100vh;
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+     padding: 20px;
+    line-height: 1.6;
 
 }
 .story{
@@ -25,6 +29,7 @@ img {
 h1{
     font-size: 42px; 
     text-align: center;
+    color: #d35400;
  
 }
 p {
@@ -33,4 +38,8 @@ p {
     font-weight: 300;
     line-height: 3rem;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-bottom: 15px;
 }
+.red {
+    font-weight: bold;
+    color: #c0392b;
